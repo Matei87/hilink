@@ -9,7 +9,7 @@ const Hero: FC = () => {
 
       <div className='relative z-20 flex flex-1 flex-col xl:w-1/2'>
         <Image
-          src='/camp.svg'
+          src='camp.svg'
           alt='camp'
           width={50}
           height={50}
@@ -27,7 +27,7 @@ const Hero: FC = () => {
               .fill(1)
               .map((_, idx) => (
                 <Image
-                  src='/star.svg'
+                  src='star.svg'
                   alt='star'
                   key={idx}
                   width={24}
@@ -47,7 +47,7 @@ const Hero: FC = () => {
           <Button
             type='button'
             title='How we work?'
-            icon='/play.svg'
+            icon='play.svg'
             variant='btn_white_text'
           />
         </div>
@@ -58,7 +58,7 @@ const Hero: FC = () => {
           <div className='flex flex-col'>
             <div className='flexBetween'>
               <p className='regular-16 text-gray-20'>Location</p>
-              <Image src='/close.svg' alt='close' width={24} height={24} />
+              <Image src='close.svg' alt='close' width={24} height={24} />
             </div>
             <p className='bold-20 text-white'>Bran Castle</p>
           </div>

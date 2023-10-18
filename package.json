@@ -1,6 +1,7 @@
 {
   "name": "hilink",
   "version": "0.1.0",
+  "homepage": "https://matei87.github.io/hilink/",
   "private": true,
   "scripts": {
     "dev": "next dev",
