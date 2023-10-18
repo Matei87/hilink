@@ -17,10 +17,10 @@ export const NAV_LINKS: INAV_LINKS[] = [
 
 // CAMP SECTION
 export const PEOPLE_URL: IPEOPLE_URL[] = [
-  './person-1.png',
-  './person-2.png',
-  './person-3.png',
-  './person-4.png',
+  '/person-1.png',
+  '/person-2.png',
+  '/person-3.png',
+  '/person-4.png',
 ];
 
 // FEATURES SECTION
