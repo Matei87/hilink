@@ -11,9 +11,8 @@ Hilink is a Single Page Application website for Camping
 
 # Screenshots
 
-- Computer
-- Phone
-  <img alt="big" width="100%" src="/public/large.png" />
+- Computer <img alt="big" width="100%" src="/public/large.png" />
+- Phone <img alt="small" width="25%" src="/public/small.png" />
+  
 
-
-  <img alt="small" width="25%" src="/public/small.png" />
+  
